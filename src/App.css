@@ -1,0 +1,29 @@
+.main-header, .navbar, .navbar-expand, .navbar-white, .navbar-light, .main-header> a  {
+    background-color: #3c8dbc !important;
+    color: #fff;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.text-aqua {
+    color: #00c0ef !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link > a:hover{
+    color: #fff;
+}
+.img-circle{
+    border: 1px solid #00c0ef;
+}
+
+.bg-primary {
+    background-color: #3c8dbc!important;
+}
